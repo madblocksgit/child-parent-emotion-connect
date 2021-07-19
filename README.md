@@ -6,3 +6,7 @@ python parent/main_parent.py
 
 # child
 python main.py
+
+# References
+https://aws.amazon.com <br/>
+http://agifdp.madblocks.tech/kivy/kivy-installation/
